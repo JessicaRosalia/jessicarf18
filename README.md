@@ -13,4 +13,4 @@ Reach me out: :point_down:
 &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-ros%C3%A1lia-fernandes-310899133/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalia_fernandes01/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jessicarosalia678@gmail.com)](jessicarosalia678@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jessicarosalia678@gmail.com)](mailto:jessicarosalia678@gmail.com)
