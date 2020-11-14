@@ -5,7 +5,7 @@ But I am not limited to that and I also study Java for Desktop and Database.
 
 <hr>
 Reach me out:📱 <br><br>
-![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/rosalia-fernandes-310899133/)
+![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rosalia-fernandes-310899133/)
 ![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rosalia_fernandes01/)
 
 
