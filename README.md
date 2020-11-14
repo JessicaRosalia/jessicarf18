@@ -5,6 +5,7 @@
 Front-end web development student, currently focusing on HTML, CSS, SASS, JavaScript and ReactJS.
 But I am not limited to that and I also study Java for Desktop and Database.
 
+[![Jéssica github stats](https://github-readme-stats.vercel.app/api?username=jessicarf18)](https://github.com/jessicarf18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarf18&layout=compact)](https://github.com/jessicarf18/github-readme-stats)
 
 ---
