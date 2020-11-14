@@ -11,7 +11,7 @@ But I am not limited to that and I also study Java for Desktop and Database.
 Reach me out: :point_down:
 
 &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-ros%C3%A1lia-fernandes-310899133/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-ros%C3%A1lia-fernandes-310899133/ target="_blank")
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalia_fernandes01/){:target="_blank"}
 
