@@ -1,6 +1,6 @@
 ### Hi, how are you? I'm Jéssica Rosália Fernandes 👋
 
-##### welcome to my profile :blush:
+##### Welcome to my profile :blush:
 
 Front-end web development student, currently focusing on HTML, CSS, SASS, JavaScript and ReactJS.
 But I am not limited to that and I also study Java for Desktop and Database.
