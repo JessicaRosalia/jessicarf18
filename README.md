@@ -2,7 +2,7 @@
 
 #### Welcome to my profile :blush:
 
-Front-end web development student, currently focusing on HTML, CSS, SASS, JavaScript and ReactJS.
+Front-end web development student, currently focusing on HTML, CSS, SASS, JavaScript and ReactJS(recent).
 But I am not limited to that and I also study Java for Desktop and Database.
 
 [![Jéssica github stats](https://github-readme-stats.vercel.app/api?username=jessicarf18&show_icons=true)](https://github.com/jessicarf18/github-readme-stats)
