@@ -2,8 +2,9 @@
 
 #### Welcome to my profile :blush:
 
-Front-end development student, currently focusing on HTML, CSS, SASS, JavaScript, ReactJS and React Native(recent).
-But I am not limited to that and I also study Java for Desktop and Database.
+Front-end development student. I have knowledge in HTML, CSS, SASS, JavaScript, ReactJS and React Native (recent).
+In addition, I am a Requirements Analyst intern at SIASP.
+But I'm not limited to that, I have knowledge and some experience with agile methodologies and I like UI/UX.
 
 [![Jéssica github stats](https://github-readme-stats.vercel.app/api?username=jessicarf18&show_icons=true)](https://github.com/jessicarf18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarf18&layout=compact)](https://github.com/jessicarf18/github-readme-stats)
