@@ -3,7 +3,7 @@
 #### Welcome to my profile :blush:
 
 Front-end development student. I have knowledge in HTML, CSS, SASS, JavaScript, ReactJS and React Native (recent).
-In addition, I am a Requirements Analyst intern at SIASP.
+In addition, I am a Requirements Analyst intern at SIASP and Flowtalent at Viaflow.
 But I'm not limited to that, I have knowledge and some experience with agile methodologies and I like UI/UX.
 
 [![Jéssica github stats](https://github-readme-stats.vercel.app/api?username=jessicarf18&show_icons=true)](https://github.com/jessicarf18/github-readme-stats)
